@@ -1,0 +1,8 @@
+matplotlib
+numpy
+pandas
+seaborn
+textblob
+nltk
+gensim
+spacy
